@@ -1,6 +1,4 @@
-# Hostel Automation in Django
-
-  
+# Hostel Management System Using Django
 
 ### Django version used here is [2.1.2]
 
